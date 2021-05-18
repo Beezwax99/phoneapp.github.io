@@ -849,6 +849,7 @@ a.btn-minimal{
 .download-section{
 	padding:100px 0;
 	background-attachment:fixed;
+    background-size: cover;
 }
 
 .download-text > h2{
